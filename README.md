@@ -1,4 +1,5 @@
-#My Profile 
+#My Profile.
+
 It's a privilege to introduce myself as Comrade Emmanuel Chibueze Agu.
 I'm currently an undergraduate.
 Coding is a software program that enable the user to achieve an expression through codes, tags or elements provided.
